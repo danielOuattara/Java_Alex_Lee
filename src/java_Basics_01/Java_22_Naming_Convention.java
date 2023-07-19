@@ -1,4 +1,4 @@
-package Java_Basics_01;
+package java_Basics_01;
 
 public class Java_22_Naming_Convention {
     static final int DAYS_IN_A_YEAR = 365;

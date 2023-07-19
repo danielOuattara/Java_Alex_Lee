@@ -1,4 +1,4 @@
-package Java_Basics_01;
+package java_Basics_01;
 
 public class Java_24_Logical_Operator {
     public static void main(String[] args) {

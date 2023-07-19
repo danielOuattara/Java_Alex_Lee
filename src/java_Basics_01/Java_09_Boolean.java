@@ -1,4 +1,4 @@
-package Java_Basics_01;
+package java_Basics_01;
 
 public class Java_09_Boolean {
     public static void main(String[] args) {
