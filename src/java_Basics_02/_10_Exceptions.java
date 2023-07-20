@@ -41,7 +41,7 @@ public class _10_Exceptions {
         //---------------------------------------------------------------
 
         ArrayList<String> invisibleList = null;
-        System.out.println(invisibleList.get(0));  // Exception read below
+       // System.out.println(invisibleList.get(0));  // Exception read below
 
         /*
         * Exception in thread "main" java.lang.NullPointerException:
