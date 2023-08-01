@@ -11,7 +11,11 @@ public class Mouse {
         System.out.println("Click on Right");
     }
 
-    public static void setColor(String color) {
-        System.out.println(color);
+    public static void scrollUp() {
+        System.out.println("Scrolled Up!");
+    }
+
+    public static void scrollDown() {
+        System.out.println("Scrolled Down!");
     }
 }
